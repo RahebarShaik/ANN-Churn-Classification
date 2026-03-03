@@ -6,4 +6,4 @@ matplotlib
 tensorboard
 seaborn
 setuptools<82
-streamlit
+streamlit>=1.40.0
